@@ -16,6 +16,11 @@ In our Python code, we use the port number to collect data using the "serial" mo
 
 # Initial hardware and software setup for the DAQ
 
-First, we need to turn on the DAQ and ensure that the DAQ is paired with the PC. If not, push and hold the button on the DAQ for 5 to 7 seconds until the lights start blinking sequentially. Then find the device  by selecting Start > Settings > Devices > Bluetooth & other devices > Add Bluetooth or other device > Bluetooth and paire it . 
+First, we need to turn on the DAQ and ensure that the DAQ is paired with the PC. If not, push and hold the button on the DAQ for 5 to 7 seconds until the lights start blinking sequentially. Then find the device  by selecting Start > Settings > Devices > Bluetooth & other devices > Add Bluetooth or other device > Bluetooth and pair it. 
 For the data collection from the DAQ, we use the company's Python modules.
+
+
+
+
+
 
